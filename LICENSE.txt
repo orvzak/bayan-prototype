@@ -1,0 +1,6 @@
+Copyright (c) 2026 Hasan Habib Zakzak. All rights reserved.
+
+This software, including its source code, documentation, layout, and live demo, is the confidential and proprietary intellectual property of the author. 
+
+Strictly No Derivative Works or Distribution:
+No part of this project may be copied, reproduced, redistributed, reverse-engineered, or used to create derivative works for any public, commercial, or competitive purposes without explicit written permission from the owner.
